@@ -1,0 +1,13 @@
+shiny
+shinyWidgets
+shinyalert
+htmlwidgets
+bs4Dash
+waiter
+tidyverse
+echarts4r
+plotly
+lubridate
+DT
+reactable
+reactablefmtr

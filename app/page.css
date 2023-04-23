@@ -1,0 +1,24 @@
+.content-wrapper{
+  background-color: #202125;
+}
+
+.navbar-white{
+  background-color: #222327;
+  border-bottom-color: #000000;
+}
+
+.os-content{
+  background-color: #2e2f33;
+}
+
+.card-header{
+  background-color: #2e2f33;
+}
+
+.card-body{
+  background-color: #2e2f33;
+}
+
+#sidebarId{
+  color: #2e2f33;
+}
