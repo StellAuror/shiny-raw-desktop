@@ -15,6 +15,7 @@ library(lubridate)
 library(DT)
 library(reactable)
 library(reactablefmtr)
+library(esquisse)
 
 shinyApp(
   ui = bs4DashPage(

@@ -10,4 +10,5 @@ plotly
 lubridate
 DT
 reactable
+esquisse
 reactablefmtr
